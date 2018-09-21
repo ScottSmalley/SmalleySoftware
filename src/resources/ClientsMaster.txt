@@ -1,0 +1,6 @@
+Account: 1 FName: SCOTT LName: SMALLEY Address: 11745 DRY CREEK ROAD City: SANDY State: 44 Zip: 84094 Phone: 801-651-9808 Email: BILLBU@YAHOO.COM AlertLevel: PC Active: T
+Account: 2 FName: DAVE LName: ZAHM Address: USU CAMPUS City: LOGAN State: 44 Zip: 84017 Phone: 801-151-9808 Email: DAVIDZAHM@USANG.MIL AlertLevel: CHECK PC Active: F
+Account: 3 FName: BEN LName: SMALLEY Address: 123 MOVING SOON PL City: LOGAN State: 12 Zip: 84443 Phone: 801-251-9808 Email: BENSMALLEY@GMAIL.COM AlertLevel: MH - 100$ BAL MUST PAY B4 CLASS -CS PC Active: T
+Account: 9 FName: MIKE LName: SMALLEY Address: 11745 DRY CREEK ROAD City: SANDY State: 44 Zip: 84094 Phone: 801-403-3347 Email: MIKESMALLEY@GMAIL.COM AlertLevel: DV PC Active: F
+Account: 5 FName: JOE LName: JACOBSEN Address: 1112 SALINA WAY City: DRAPER State: 44 Zip: 84020 Phone: 801-451-9808 Email: JOEJACOBSEN@GMAIL.COM AlertLevel: OTHER PC Active: T
+Account: 10 FName: ASHLY LName: LARSEN Address: SOMEWHERE IN UTAH City: SALT LAKE CITY State: 48 Zip: 84015 Phone: 801-451-9808 Email: ASHLYLARSEN@HOTMAIL.COM AlertLevel: NA PC Active: F
