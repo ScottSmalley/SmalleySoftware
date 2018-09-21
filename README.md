@@ -1,4 +1,8 @@
 # SmalleySoftware
+
+BUILT: Summer 2017, reuploaded to github for ease of access.
+EDUCATION AT TIME BUILT: pre-Algorithms & Datastructures, pre-Database, pre-Software Engineering.
+
 Patient Database Concept for small mental health businesses. 
 Controls:
 Enter in a first name or last name.
